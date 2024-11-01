@@ -6,7 +6,7 @@
 
 ## **Примененные технологии**
 
-* Linux, Bash, SSH, SCP
+* Linux (Astra Linux), Bash, SSH, SCP
 
 ---
 
